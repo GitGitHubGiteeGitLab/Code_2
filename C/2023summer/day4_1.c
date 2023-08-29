@@ -1,3 +1,4 @@
+//¸ü¸Ä
 int cmp(const int* restrict p, const int* restrict q) {
     if (*p < *q) {
         return -1;
